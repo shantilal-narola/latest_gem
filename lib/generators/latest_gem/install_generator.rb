@@ -1,5 +1,5 @@
 require 'rails/generators'
-module Gemname
+module LatestGem
   class InstallGenerator < Rails::Generators::Base
     desc "Some description of my generator here"
 
