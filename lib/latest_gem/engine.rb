@@ -1,5 +1,5 @@
 require 'rails'
-module Gemname
+module LatestGem
   class Engine < Rails::Engine
   end
 end
